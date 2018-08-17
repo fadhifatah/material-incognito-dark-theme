@@ -1,9 +1,9 @@
 {
 	"manifest_version": 2,
 
-	"name": "Material Incognito Dark Theme",
+	"name": "Modern Incognito Dark Theme - Fatav",
 	"description": "A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.",
-	"version": "3.0.1",
+	"version": "1.0.0",
 
 	"theme": {
 		"images": {
@@ -11,14 +11,14 @@
 			"theme_toolbar": "images/theme_toolbar.png",
 			"theme_tab_background": "images/theme_tab_background.png",
 			"theme_tab_background_incognito": "images/theme_tab_background.png",
-			"theme_tab_background_v": "images/theme_tab_background.png"
+			"theme_tab_background_v": "images/theme_toolbar.png"
 		},
 		"colors": {
-			"frame": [40, 43, 45],
-			"frame_inactive": [56, 59, 61],
-			"frame_incognito": [40, 43, 45],
-			"frame_incognito_inactive": [56, 59, 61],
-			"toolbar": [80, 80, 80],
+			"frame": [32, 33, 36],
+			"frame_inactive": [198, 198, 198],
+			"frame_incognito": [32, 33, 36],
+			"frame_incognito_inactive": [198, 198, 198],
+			"toolbar": [50, 50, 50],
 			"tab_text": [255, 255, 255],
 			"tab_background_text": [255, 255, 255],
 			"bookmark_text": [255, 255, 255],
@@ -26,7 +26,6 @@
 			"ntp_text": [255, 255, 255]
 		},
 		"tints": {
-			"buttons": [0, 0, 0.85]
 		},
 		"properties": {
 			"ntp_logo_alternate": 1,
